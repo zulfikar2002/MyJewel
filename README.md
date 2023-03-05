@@ -15,3 +15,4 @@ https://github.com/zulfikar2002/BACKEND-WEB2/tree/main
 
 Frontend Code
 https://github.com/zulfikar2002/tugas-akhir
+I am editing the README file. Adding some more details about the project description.
